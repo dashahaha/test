@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!!!");
-            Console.WriteLine("fromgithub1");
+            Console.WriteLine("fromgithub");
            
           
             Console.WriteLine("Hello world2.1");
